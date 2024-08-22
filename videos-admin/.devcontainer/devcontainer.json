@@ -29,7 +29,8 @@
 		"vscode": {
 			"extensions": [
 				"Orta.vscode-jest",
-				"firsttris.vscode-jest-runner"
+				"firsttris.vscode-jest-runner",
+				"pkief.material-icon-theme"
 			]
 		}
 	}
